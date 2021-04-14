@@ -1,0 +1,20 @@
+C:\Users\kudus\source\repos\Genetic\Genetic\bin\Debug\Genetic.exe.config
+C:\Users\kudus\source\repos\Genetic\Genetic\bin\Debug\Genetic.exe
+C:\Users\kudus\source\repos\Genetic\Genetic\bin\Debug\Genetic.pdb
+C:\Users\kudus\source\repos\Genetic\Genetic\obj\Debug\Genetic.csprojAssemblyReference.cache
+C:\Users\kudus\source\repos\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+C:\Users\kudus\source\repos\Genetic\Genetic\obj\Debug\Genetic.Properties.Resources.resources
+C:\Users\kudus\source\repos\Genetic\Genetic\obj\Debug\Genetic.csproj.GenerateResource.cache
+C:\Users\kudus\source\repos\Genetic\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+C:\Users\kudus\source\repos\Genetic\Genetic\obj\Debug\Genetic.exe
+C:\Users\kudus\source\repos\Genetic\Genetic\obj\Debug\Genetic.pdb
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\bin\Debug\Genetic.exe.config
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\bin\Debug\Genetic.exe
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\bin\Debug\Genetic.pdb
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\obj\Debug\Genetic.csprojAssemblyReference.cache
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\obj\Debug\Genetic.Properties.Resources.resources
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\obj\Debug\Genetic.csproj.GenerateResource.cache
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\obj\Debug\Genetic.exe
+C:\Users\kudus\OneDrive\Рабочий стол\Фриланс\Проекты фриланс\Лабиринт\Genetic\Genetic\obj\Debug\Genetic.pdb
